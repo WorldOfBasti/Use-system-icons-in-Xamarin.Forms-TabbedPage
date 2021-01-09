@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9CE2F768-4B67-4750-8544-8CA7D93C60D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp.iOS/MyTabbedPageRenderer.cs">
+    <Files>
+      <File FileName="TestApp/App.xaml.cs" Line="13" Column="28" />
+      <File FileName="TestApp/MainPage.xaml.cs" />
+      <File FileName="TestApp/MainPage.xaml" />
+      <File FileName="TestApp.iOS/MyTabbedPageRenderer.cs" Line="34" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="TestApp.iOS" expanded="True">
+              <Node name="MyTabbedPageRenderer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestApp.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.68EDF95A-0275-410F-BE73-55AED53553E9" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestApp.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_3a_xl_q_10_0_-_api_29" />
+</Properties>
